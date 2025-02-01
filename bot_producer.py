@@ -1,7 +1,7 @@
 ###TELEGRAM#### -
 ### BOT NAME - benji ###
 # respj3 = ''
-TOKEN = "7598920997:AAGM53vX9XgCdwDWnXHSFQMcoJv16py5TjM"
+TOKEN = "ENTER YOUR TOKEN"
 import datetime
 from datetime import date
 import requests
