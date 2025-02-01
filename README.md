@@ -1,5 +1,5 @@
 
-# Flight Price Monitoring pipeline
+# Flight Price Monitoring Pipeline
 
 ## Purpose
 This project provides a flight price monitoring system using various tools such as Apache Kafka, MinIO, MongoDB, Amadeus API, and Telegram Bot. The system checks for price updates on flight offers and notifies users about price changes. The core functionality is implemented in Python, and Docker is used for containerization. This project reads flight data from Kafka, monitors prices using the Amadeus API, stores data in MongoDB, and communicates with users via a Telegram bot.
