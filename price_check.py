@@ -6,7 +6,7 @@ from requests.structures import CaseInsensitiveDict
 import datetime
 from datetime import date
 #### Defining Constant Variables ####
-TOKEN = "7272653215:AAEJENjwCMddUfg10UKVNBFmKZLdood7_gE"
+TOKEN = "ENTER YOUR TOKEN"
 bot = telebot.TeleBot(TOKEN)
 #### Defining MongoDB Constant Variables ####
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
